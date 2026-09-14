@@ -51,7 +51,6 @@ I'm interested in opportunities in **AI/ML Engineering and Software Engineering*
 
 ### 📫 Connect With Me
 
-* GitHub: [varnitsaini456](https://github.com/varnitsaini456)
 * LinkedIn: [Varnit Saini](https://linkedin.com/in/varnit954/)
 
 ---
